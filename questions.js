@@ -54,6 +54,17 @@ let questions=[
             "Denis Ritchie",
             "All of the above"
         ]
-    }
+    },
+    {
+        numb: 6,
+        question: "How intelligent you are?",
+        answer: "I don't Know actually",
+        options: [
+            "Most Intelligent",
+            "Not intelligent",
+            "Very bad",
+            "I don't Know actually"
+        ]
+    },
 
 ]

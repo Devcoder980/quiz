@@ -1,3 +1,3 @@
 # quiz
-Page LIce LInk
+Page Live LInk
 https://devcoder980.github.io/quiz/
